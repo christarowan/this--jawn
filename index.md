@@ -6,3 +6,6 @@ for (int i=0; i<thing.length; i++){
    System.out.println("loopdyloop")
    }
    
+- [x] Don't do this thing.
+- [x] Nope, not that either.
+- [ ] Do this later.
